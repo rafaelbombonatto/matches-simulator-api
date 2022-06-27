@@ -16,5 +16,22 @@
       "estrelas": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
+  },
+  { 
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Neo Quimica Arena",
+      "imagem": "https://ik.imagekit.io/qaxhhe51fz/story/2021/09/capa-neoquimica-arena-584x401.png"
+    },
+    "mandante": {
+      "nome": "Chile",
+      "estrelas": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png"
+    },
+    "visitante": {
+      "nome": "Venezuela",
+      "estrelas": 2,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ve.png"
+    }
   } 
 ]
