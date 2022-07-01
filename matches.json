@@ -33,5 +33,22 @@
       "estrelas": 2,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ve.png"
     }
+  },
+  { 
+    "descricao": "Campeonato Brasileiro",
+    "local": {
+      "nome": "Neo Quimica Arena",
+      "imagem": "https://ik.imagekit.io/qaxhhe51fz/story/2021/09/capa-neoquimica-arena-584x401.png"
+    },
+    "mandante": {
+      "nome": "Corinthians",
+      "estrelas": 5,
+      "imagem": "https://www.rs21.com.br/wp-content/uploads/2015/03/logo-corinthians.jpg"
+    },
+    "visitante": {
+      "nome": "Palmeiras",
+      "estrelas": 4,
+      "imagem": "https://i.ytimg.com/vi/DiKvx0gRfaQ/0.jpg"
+    }
   } 
 ]
